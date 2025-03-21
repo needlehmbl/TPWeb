@@ -191,7 +191,6 @@ video{
     position: relative;
     display: flex;
     justify-self: center;
-
 }
 @media all and (min-width: 700px) {
   main {
